@@ -1,0 +1,51 @@
+.imagem-carrosel{
+    object-position: 0, 60%;
+    object-fit: cover;
+    height: 400px;
+}
+
+#cor-menu-inicio{
+    background-color: #facb03;
+}
+
+.fonte-especial{
+    font-family: 'Architects Daughter', cursive;
+}
+
+.fonte-titulo{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 30px;
+}
+
+.fonte-especial-menu{
+    font-family: 'BenchNine', sans-serif;
+    font-size: 23px;
+}
+
+
+.fonte-especial-vermelha{
+        font-family: 'Architects Daughter', cursive;
+        color:darkred;
+}
+
+.card-posicao-imagem{
+    object-position: 0 60%;
+    object-fit: cover;
+    height: 200px;
+}
+
+#borda-especial{
+    border-color: darkred;
+    border-width: 3px;
+}
+
+.preco-card{
+    font-weight: bold;
+    font-size: 23px;
+    border-radius: 3px;
+}
+
+.fonte-card{
+    font-family: 'BenchNine', sans-serif;
+    font-size: 28px;
+}
