@@ -5,7 +5,7 @@
 }
 
 #cor-menu-inicio{
-    background-color: #facb03;
+    background-color: #f5730a;
 }
 
 .fonte-especial{
@@ -25,8 +25,15 @@
 
 .fonte-especial-vermelha{
         font-family: 'Architects Daughter', cursive;
-        color:darkred;
+        color:ivory;
 }
+
+.main-background{
+    background-image: url("./circle-scatter-haikei.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 .card-posicao-imagem{
     object-position: 0 60%;
@@ -48,4 +55,8 @@
 .fonte-card{
     font-family: 'BenchNine', sans-serif;
     font-size: 28px;
+}
+
+.footer{
+    background-color:#a32d04;
 }
